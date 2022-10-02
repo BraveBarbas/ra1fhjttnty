@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=**********************
-CADDYIndexPage=https://github.com/bradtraversy/loruki-website/archive/master.zip
+AUUID=80f32ea9-0498-4eca-853d-7735526de115
+CADDYIndexPage=https://github.com/StartBootstrap/startbootstrap-new-age/archive/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
